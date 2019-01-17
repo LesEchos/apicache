@@ -1,5 +1,5 @@
 {
-  "name": "apicache",
+  "name": "@lesechos/apicache",
   "version": "1.2.3",
   "scripts": {
     "lint": "eslint **/*.js",
@@ -16,7 +16,7 @@
   "main": "./src/apicache.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/kwhitley/apicache.git"
+    "url": "git+https://github.com/LesEchos/apicache.git"
   },
   "keywords": [
     "cache",
