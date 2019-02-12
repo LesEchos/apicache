@@ -1,6 +1,6 @@
 {
   "name": "@lesechos/apicache",
-  "version": "1.2.4",
+  "version": "1.2.5",
   "scripts": {
     "lint": "eslint **/*.js",
     "pretest": "npm run lint",
